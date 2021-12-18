@@ -1,5 +1,4 @@
 # CalcuPython_2.0
-CalcuPython v2
 ![foto](https://github.com/yScottLuck/CalcuPython_2.0/blob/main/Screenshot_2021-12-18-16-31-18-1.png)
 
 Olá!
